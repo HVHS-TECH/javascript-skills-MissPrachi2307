@@ -1,9 +1,18 @@
 /****************************
-This is a block comment.
-Put your header comment here!
+Namw=e of task: Task 1 
 ****************************/
 console.log("Running t01_introduction.js")
 console.log(/*Insert your message here!*/)
+ //Variables 
 
-// This is a single line comment
 
+
+/****************************
+Main 
+****************************/
+
+
+
+/****************************
+Functions
+****************************/
