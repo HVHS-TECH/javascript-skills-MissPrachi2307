@@ -16,7 +16,7 @@ Main
 ****************************/
 console.log("Name:"+ userName);
 console.log("Age:"+ userAge);
-console.log("Money:"+ pocketMoney);
+console.log("Pocket Money:"+ pocketMoney);
 
 
 /****************************
