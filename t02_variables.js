@@ -3,7 +3,7 @@
 Name of task: Task 1 
 ****************************/
 console.log("Running t02_variables.js")
-console.log(/*Hi concole. As of today I am 16 years old. I have 178 dollars*/)
+console.log(/*Hi console. As of today I am 16 years old. I have 178 dollars*/)
  //Variables 
 var name = "Pratha"
 var age = 16;
