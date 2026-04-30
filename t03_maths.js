@@ -18,7 +18,7 @@ var num5 = 1;
 Main 
 ****************************/
 console.log("add", num1+num1)
-console.log("")
+console.log("num")
 
 /****************************
 Functions
