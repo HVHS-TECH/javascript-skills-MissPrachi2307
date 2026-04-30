@@ -19,5 +19,5 @@ Main
 ****************************/
 console.log("add", num1 + num1)
 answer = num1 + num2 / num2 
-console.log( equation )
+console.log( "equation", answer );
 
