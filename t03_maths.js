@@ -11,13 +11,14 @@ var num2 = 5;
 var num3 = 3;
 var num4 = 2;
 var num5 = 1; 
-
+var answer;
 
 
 /****************************
 Main 
 ****************************/
 console.log("add", num1+num1)
+answer = 
 console.log("num")
 
 /****************************
