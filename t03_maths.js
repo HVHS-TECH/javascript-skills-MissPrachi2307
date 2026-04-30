@@ -17,9 +17,7 @@ var answer;
 /****************************
 Main 
 ****************************/
-console.log("add", num1+num1)
+console.log("add", num1 + num1)
 answer = 
 console.log("num")
 
-/****************************
-Functions
