@@ -6,7 +6,7 @@ Name of task: Task 1
 console.log("Running t02_variables.js")
 
  //Variables 
-var num
+var num1 = 10; 
 
 
 /****************************
