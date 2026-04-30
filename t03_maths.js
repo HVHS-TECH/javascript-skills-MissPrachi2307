@@ -18,6 +18,6 @@ var answer;
 Main 
 ****************************/
 console.log("add", num1 + num1)
-answer = 
-console.log("num")
+answer = num1 + num2 / num2 
+console.log( equation )
 
