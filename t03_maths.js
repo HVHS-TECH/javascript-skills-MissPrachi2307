@@ -23,3 +23,17 @@ console.log("Running t03_maths.js")
 /****************************
 Name of task: Task 1 
 ****************************/
+ //Variables 
+var userName = "Pratha"
+var userAge = 16;
+var pocketMoney = 200;
+var currentYear = 2026; 
+
+/****************************
+Main 
+****************************/
+console.log("Hi, console")
+/****************************
+/****************************
+Functions
+****************************/
