@@ -20,9 +20,7 @@ console.log("Pocket Money:"+ pocketMoney);
 Functions
 ****************************/
 console.log("Running t03_maths.js")
-/****************************
-Name of task: Task 1 
-****************************/
+
  //Variables 
 var userName = "Pratha"
 var userAge = 16;
