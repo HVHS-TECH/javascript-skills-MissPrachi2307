@@ -33,6 +33,7 @@ var currentYear = 2026;
 Main 
 ****************************/
 console.log("Hi, console")
+console.log("As of ")
 /****************************
 /****************************
 Functions
