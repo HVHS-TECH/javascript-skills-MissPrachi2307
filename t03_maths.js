@@ -26,6 +26,7 @@ var userName = "Pratha"
 var userAge = 16;
 var pocketMoney = 200;
 var currentYear = 2026; 
+var randomNumber = 10; 
 
 /****************************
 Main 
@@ -34,7 +35,8 @@ console.log("Hi, console");
 console.log("As of " + currentYear + " you are " + userAge + " years old");
 birthYear= currentYear-16
 console.log("You were bron in " + birthYear);
-console.log("In 10 years I will be" userAge );
+futureYear= userAge + randomNumber
+console.log("In 10 years I will be " + futureYear)
 /****************************
 /****************************
 Functions
