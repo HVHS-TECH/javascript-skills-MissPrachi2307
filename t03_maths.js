@@ -35,8 +35,7 @@ console.log("Hi, console");
 console.log("As of " + currentYear + " you are " + userAge + " years old");
 birthYear= currentYear-16
 console.log("You were bron in " + birthYear);
-futureYear= userAge + randomNumber
-console.log("In 10 years I will be " + futureYear)
+console.log("In 10 years you will be "+ userAge + randomNumber )
 /****************************
 /****************************
 Functions
