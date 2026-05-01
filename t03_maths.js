@@ -33,7 +33,8 @@ var currentYear = 2026;
 Main 
 ****************************/
 console.log("Hi, console")
-console.log("As of ")
+console.log("As of "+ currentYear+ "you are" +userAge+ "years old")
+console.log ("You are bron in"+ )
 /****************************
 /****************************
 Functions
