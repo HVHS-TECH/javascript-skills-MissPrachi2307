@@ -3,7 +3,7 @@ console.log("Running T04_Debugging")
 var length = 8;
 var width = 10
 // calculate the area
-var area = length + width;
+var area = 8 * 10 ; 
 
 // calculate the perimeter
 var perimeter = 2 *"length" + 2 * "width"; 
