@@ -1,5 +1,5 @@
 /* Paste your code from task 3, Maths here */
-console.log("Running t02_variables.js")
+console.log("Running t05_")
 
  //Variables 
 var userName = "Pratha"
