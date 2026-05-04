@@ -20,7 +20,7 @@ if (perimeter > area){
 }
 
 
-onsole.log("Running T04_Debugging")
+console.log("Running T04_Debugging")
 // Set up the size of the page.
 var length = 8;
 var Width = 10
