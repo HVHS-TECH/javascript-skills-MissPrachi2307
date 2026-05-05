@@ -42,7 +42,8 @@ welcome()
 Functions
 ****************************/
 function welcome(){
-//Add 
+//Add a line to the html page
+OUTPUT .innerHTML += "<p>welcome to the shop </p>"
 
 }
 
