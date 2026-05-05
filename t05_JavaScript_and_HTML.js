@@ -6,6 +6,8 @@ var userName = "Pratha"
 var userAge = 16;
 var pocketMoney = 200;
 var currentYear = 2026; 
+var randomNumber = 10; 
+var halfMoney = 2;
 
 
 /****************************
@@ -14,24 +16,6 @@ Main
 console.log("Name:"+ userName);
 console.log("Age:"+ userAge);
 console.log("Pocket Money:"+ pocketMoney);
-
-
-/****************************
-Functions
-****************************/
-
-
- //Variables 
-var userName = "Pratha"
-var userAge = 16;
-var pocketMoney = 200;
-var currentYear = 2026; 
-var randomNumber = 10; 
-var halfMoney = 2;
-
-/****************************
-Main 
-****************************/
 console.log("Hi, console");
 console.log("As of " + currentYear + " I am " + userAge + " years old");
 birthYear= currentYear-16
@@ -50,7 +34,11 @@ OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
 OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 
-/****************************
+
+
 /****************************
 Functions
 ****************************/
+
+
+
