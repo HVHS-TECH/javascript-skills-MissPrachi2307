@@ -45,7 +45,11 @@ console.log("I have spent half of your mone, now I have "+ moneySpent );
 console.log("Then I got $3, now I have " + totalamount);
 
 const OUTPUT = document.getElementById("JavascriptOutput ");
-OUTPUT .innerHTML = "<h>Added by JavaSprict</h>";
+OUTPUT.innerHTML ="<h>Added by JavaSprict</h>";
+OUTPUT.innerHTML +="<p>Hello " + userName + "</p>";
+OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
+OUTPUT.innerHTML += ""
+
 /****************************
 /****************************
 Functions
