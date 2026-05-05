@@ -48,7 +48,7 @@ const OUTPUT = document.getElementById("JavascriptOutput ");
 OUTPUT.innerHTML ="<h>Added by JavaSprict</h>";
 OUTPUT.innerHTML +="<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
-OUTPUT.innerHTML += ""
+OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 
 /****************************
 /****************************
