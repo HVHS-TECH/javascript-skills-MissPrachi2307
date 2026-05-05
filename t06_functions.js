@@ -32,7 +32,7 @@ OUTPUT.innerHTML += "<h2>Added by JavaSprict</h2>";
 OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
 OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
-Welcome()
+welcome()
 
     
 }
@@ -41,6 +41,9 @@ Welcome()
 /****************************
 Functions
 ****************************/
-fu
+function welcome(){
+//Add 
+
+}
 
 
