@@ -33,6 +33,7 @@ OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
 OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 const OUTPUT = document.getElementById("JavaScriptOutput");
+
 writeLine()
 
     
@@ -44,7 +45,7 @@ Functions
 ****************************/
 function writeLine(){
 //Add a line to the html page
-OUTPUT .innerHTML += "<p>welcome to the shop </p>"
+OUTPUT .innerHTML += "<p>Less code matters</p>"
 
 }
 
