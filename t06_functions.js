@@ -32,7 +32,8 @@ OUTPUT.innerHTML += "<h2>Added by JavaSprict</h2>";
 OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
 OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
-welcome()
+const OUTPUT = document.getElementById("JavaScriptOutput");
+writeLine()
 
     
 }
@@ -41,7 +42,7 @@ welcome()
 /****************************
 Functions
 ****************************/
-function welcome(){
+function writeLine(){
 //Add a line to the html page
 OUTPUT .innerHTML += "<p>welcome to the shop </p>"
 
