@@ -32,7 +32,7 @@ OUTPUT.innerHTML += "<h2>Added by JavaSprict</h2>";
 OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
 OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
-writeLine();
+welcome();
 
     
 
@@ -40,9 +40,9 @@ writeLine();
 /****************************
 Functions
 ****************************/
-function writeLine(){
+function welcome(){
 //Add a line to the html page
-OUTPUT .innerHTML += "<p>Less code matters</p>"
+OUTPUT .innerHTML += "<p>Welcome to the shop</p>"
 
 }
 
