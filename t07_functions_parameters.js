@@ -1,5 +1,5 @@
 /* Paste your code from task 6 here */
-console.log("Running t07_functions_.js")
+console.log("Running t07_functions_parameters.js")
 
  //Variables 
 var userName = "Pratha"
