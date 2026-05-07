@@ -35,7 +35,6 @@ OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 writeLine();
 
     
-}
 
 
 /****************************
