@@ -33,9 +33,9 @@ OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
 OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 welcome();
-displayProduct("Chocolate", 4)
-displayProduct("Chips", 3)
-displayProduct("Drinks", 2.50)
+displayProduct("Chocolate ", 4)
+displayProduct("Chips ", 3)
+displayProduct("Drinks ", 2.50)
 
 /****************************
 Functions
