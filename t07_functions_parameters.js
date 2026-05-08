@@ -33,9 +33,9 @@ OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
 OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 welcome();
-
-    
-
+displayProduct("Chocolate", 4)
+displayProduct("Chips", 3)
+displayProduct("Drinks", 2.50)
 
 /****************************
 Functions
@@ -43,7 +43,9 @@ Functions
 function welcome(){
 //Add a line to the html page
 OUTPUT .innerHTML += "<p>Welcome to the shop</p>";
-OUTPUT .innerHTML += "<p>"
+
 }
 
-
+function displayProduct(_name, _price){
+    OUTPUT. interHTML += "<p> +_name + "costs $" + _price" + "</p>"
+}
