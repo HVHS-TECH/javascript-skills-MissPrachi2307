@@ -47,5 +47,6 @@ OUTPUT .innerHTML += "<p>Welcome to the shop</p>";
 }
 
 function displayProduct(_name, _price){
-    OUTPUT.interHTML += "<p>" + _name + "costs $" + _price + "</p>";
+ console.log("money")  
+    OUTPUT.innerHTML += "<p>" + _name + "costs $" + _price + "</p>";
 }
