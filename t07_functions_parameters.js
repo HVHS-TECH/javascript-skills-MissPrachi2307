@@ -43,7 +43,7 @@ Functions
 function welcome(){
 //Add a line to the html page
 OUTPUT .innerHTML += "<p>Welcome to the shop</p>";
-
+OUTPUT.
 }
 
 
