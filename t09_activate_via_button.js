@@ -1,6 +1,4 @@
-const { startTransition } = require("react");
 
-/* Paste your code from task 7 here*/
 console.log("t09_activeate_via_button.js")
 
  //Variables 
@@ -34,7 +32,6 @@ Main
     const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 
     function start(){
-
     OUTPUT.innerHTML += "<h2>Added by JavaSprict</h2>";
     OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
     OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
