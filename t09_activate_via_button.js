@@ -56,4 +56,6 @@ OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 
 }
 
-
+function displayProduct (_name, _price){
+    OUTPUT.innerHTML += "<p>" +name
+}
