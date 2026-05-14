@@ -60,3 +60,5 @@ OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 function displayProduct (_name, _price){
     OUTPUT.innerHTML += "<p>" + _name + "costs $" + _price + "</p>"
 }
+
+function get
