@@ -1,4 +1,3 @@
-/* Paste your code from task 6 here */
 console.log("Running t07_functions_parameters.js")
 
  //Variables 
