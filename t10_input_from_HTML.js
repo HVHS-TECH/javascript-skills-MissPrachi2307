@@ -29,7 +29,9 @@ Main
     console.log("Then I got $3, now I have " + totalamount);
 
     const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
-
+    const NAME_FEILD = document.getElementById("nameFeild")
+    let userName = NAME_FEILD.value;
+ 
     function start(){
     OUTPUT.innerHTML += "<h2>Added by JavaSprict</h2>";
     OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
