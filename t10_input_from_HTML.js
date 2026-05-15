@@ -64,4 +64,13 @@ function displayProduct (_name, _price){
     OUTPUT.innerHTML += "<p>" + _name + "costs $" + _price + "</p>"
 }
 
-
+function getFormInput(){
+    let userName = NAME_FIELD.value;
+    OUTPUT.innerHTML += "<p> Your name is " + userName + "</p>";
+    let userProduct = PRODUCT_FIELD.value;
+    OUTPUT.innerHTML += "<p> Your product is " + userProduct + "</p>";
+    let userAge = AGE_FIELD.value;
+    OUTPUT.innerHTML += "<p> Your age is " + userAge + "</p>";
+    let userProductPrice = PRODUCT_PRICE_FIELD.value;
+    OUTPUT.innerHTML += "<p> Your product price is $" + userProductPrice + "</p>";
+}
