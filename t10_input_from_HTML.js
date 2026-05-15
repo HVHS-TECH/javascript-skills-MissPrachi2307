@@ -12,7 +12,12 @@ var halfMoney = 2;
 Main 
 ****************************/
 
-
+const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
+const NAME_FIELD = document.getElementById("nameField");
+const PRODUCT_FIELD = document.getElementById("productField");
+const AGE_FIELD = document.getElementById("AgeField");
+const PRODUCT_PRICE_FIELD = document.getElementById("ProductPriceField");
+function start(){
     console.log("Name:"+ userName);
     console.log("Age:"+ userAge);
     console.log("Pocket Money:"+ pocketMoney);
@@ -27,10 +32,8 @@ Main
     totalamount= 100 + 3 
     console.log("I have spent half of your mone, now I have "+ moneySpent ); 
     console.log("Then I got $3, now I have " + totalamount);
-
-    const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
-    const NAME_FEILD = document.getElementById("nameFeild")
-    let userName = NAME_FEILD.value;
+}
+    
  
     function start(){
     OUTPUT.innerHTML += "<h2>Added by JavaSprict</h2>";
@@ -42,7 +45,7 @@ Main
 displayProduct("Chocolate ", 4)
 displayProduct("Chips ", 3)
 displayProduct("Drinks ", 2.50)
-    }
+}
 
 /****************************
 Functions
