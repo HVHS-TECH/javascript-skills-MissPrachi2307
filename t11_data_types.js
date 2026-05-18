@@ -67,7 +67,7 @@ function displayProduct (_name, _price){
 
 function getFormInput(){
     let userName = NAME_FIELD.value;
-    OUTPUT.innerHTML += "<p> Your name is " + userName + "</p>";
+    OUTPUT.innerHTML = "<p> Your name is " + userName + "</p>";
     let userProduct = PRODUCT_FIELD.value;
     OUTPUT.innerHTML += "<p> Your product is " + userProduct + "</p>";
     let userAge = AGE_FIELD.value;
