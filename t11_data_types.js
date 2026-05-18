@@ -1,4 +1,4 @@
-console.log("t11_input_from_HTML.js")
+console.log("t11_data_types.js")
 
  //Variables 
 var userName = "Pratha"
