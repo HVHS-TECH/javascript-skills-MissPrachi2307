@@ -74,6 +74,6 @@ function getFormInput(){
     OUTPUT.innerHTML += "<p> Your age is " + userAge + "</p>";
     let userProductPrice = PRODUCT_PRICE_FIELD.value;
     OUTPUT.innerHTML += "<p> Your product price is $" + userProductPrice + "</p>";
-    let pocketMoney = POCKET_MONEY_FEILDMONEY_FIELD.value; 
+    let pocketMoney = POCKET_MONEY_FEILD_FIELD.value; 
     OUTPUT.innerHTML += "<p>Your pocket money is $ " + pocketMoney + "</p>";
 }
