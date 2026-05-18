@@ -53,7 +53,7 @@ Functions
 ****************************/
 function welcome(){
 //Add a line to the html page
-OUTPUT .innerHTML += "<p>Welcome to the shop</p>";
+OUTPUT .innerHTML = "<p>Welcome to the shop</p>";
 OUTPUT.innerHTML = "<h2>Added by JavaSprict</h2>";
 OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>Second Paragraph line.</p>"; 
