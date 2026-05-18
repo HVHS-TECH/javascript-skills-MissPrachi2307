@@ -17,6 +17,7 @@ const NAME_FIELD = document.getElementById("nameField");
 const PRODUCT_FIELD = document.getElementById("productField");
 const AGE_FIELD = document.getElementById("AgeField");
 const PRODUCT_PRICE_FIELD = document.getElementById("ProductPriceField");
+const MONEY_FEILD = document.getElementById("MoneyFeild");
 function start(){
     console.log("Name:"+ userName);
     console.log("Age:"+ userAge);
