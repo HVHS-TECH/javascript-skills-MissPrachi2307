@@ -17,7 +17,7 @@ const NAME_FIELD = document.getElementById("nameField");
 const PRODUCT_FIELD = document.getElementById("productField");
 const AGE_FIELD = document.getElementById("AgeField");
 const PRODUCT_PRICE_FIELD = document.getElementById("ProductPriceField");
-const MONEY_FEILD = document.getElementById("MoneyFeild");
+const POCKET_MONEY_FEILD = document.getElementById("PocketMoneyFeild");
 function start(){
     console.log("Name:"+ userName);
     console.log("Age:"+ userAge);
@@ -74,6 +74,6 @@ function getFormInput(){
     OUTPUT.innerHTML += "<p> Your age is " + userAge + "</p>";
     let userProductPrice = PRODUCT_PRICE_FIELD.value;
     OUTPUT.innerHTML += "<p> Your product price is $" + userProductPrice + "</p>";
-    let pocketMoney = MONEY_FIELD.value; 
-    OUTPUT.innerHTML += "<p>Your pocket money is $ " + pocketMoney + "</p>"
+    let pocketMoney = POCKET_MONEY_FEILDMONEY_FIELD.value; 
+    OUTPUT.innerHTML += "<p>Your pocket money is $ " + pocketMoney + "</p>";
 }
