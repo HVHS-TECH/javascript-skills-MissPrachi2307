@@ -32,6 +32,7 @@ function start(){
     totalamount= 100 + 3 
     console.log("I have spent half of your mone, now I have "+ moneySpent ); 
     console.log("Then I got $3, now I have " + totalamount);
+     const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 }
     
  
