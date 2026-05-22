@@ -73,8 +73,7 @@ function getFormInput(){
     OUTPUT.innerHTML += "<p> Your age is " + userAge + "</p>";
     let userProductPrice = PRODUCT_PRICE_FIELD.value;
     OUTPUT.innerHTML += "<p> Your product price is $" + userProductPrice + "</p>";
-    let userPocketMoney = POCKET_MONEY_FIELD.value;
-    OUTPUT.innerHTML +="<p> your pocket money is $ " + userPocketMoney + "</p>";
+   
 
 }
 
