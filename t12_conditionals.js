@@ -61,6 +61,16 @@ OUTPUT.innerHTML += "<p> Third Paragraph line.</p>";
 
 }
 
+function getMoneyInput(){
+    const POCKET_MONEY_FIELD = document.getElementById("moneyInput")
+    let pocketMoney = POCKET_MONEY_FIELD.value;
+    if (pocketMoney >= 4){
+        console.log ("a chocolate bar costs 4 dolars you can afford a chocolate bar")
+    } else {
+        console.log ("a chooclate bar costs 4 dolars you cant afford a chooclate bar")
+    }
+}
+
 function displayProduct (_name, _price){
     OUTPUT.innerHTML += "<p>" + _name + "costs $" + _price + "</p>"
 }
