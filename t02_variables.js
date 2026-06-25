@@ -17,7 +17,6 @@ Main
 console.log("Name:"+ userName);
 console.log("Age:"+ userAge);
 console.log("Pocket Money:"+ pocketMoney);
-console.log("Pocket Money:"+ pocketMoney);
 console.log("Hi console.")
 console.log("As of " + 2026 + " I am " + 16 + " years old" );
 console.log("I have 200 dollars");
